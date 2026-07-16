@@ -6,12 +6,6 @@ menu-driven interface. Built as a portfolio project to demonstrate core
 software engineering skills: OOP design, STL usage, file I/O, and modular
 project structure.
 
-## Live Demo
-
-Demo of adding a book, registering a member, issuing and returning a book
-demo/session_demo.svg
-
-
 ## Features
 
 - **Book management** — add, remove, list, and search books (by title,
