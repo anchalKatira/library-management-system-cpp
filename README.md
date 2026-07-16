@@ -8,7 +8,8 @@ project structure.
 
 ## Live Demo
 
-![Demo of adding a book, registering a member, issuing and returning a book](demo/session_demo.svg)
+Demo of adding a book, registering a member, issuing and returning a book
+demo/session_demo.svg
 
 
 ## Features
